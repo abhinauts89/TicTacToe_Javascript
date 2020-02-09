@@ -1,0 +1,4 @@
+
+Install  extension "Live Server"
+
+// cellElements doesn't have every method so we destructure it into array 
